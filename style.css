@@ -40,9 +40,11 @@ nav ul a{
     /* text-shadow: 2px 2px 6px rgb(136, 134, 133); */
 }
 
-/* @media only screen and (max-width: 992px)
-nav .aftest {
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    transform: translateX(-50%);
-} */
+.conf {
+    margin-bottom: 0;
+    display: contents;
+}
+
+.testfather{
+    display: flexbox;
+}
